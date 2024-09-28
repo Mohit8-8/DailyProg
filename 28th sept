@@ -1,0 +1,72 @@
+// //if else statements
+// let color='blu'
+// if (color=='blue') {
+//     console.log('you can drive')
+// } else {
+//     console.log('you wont drive')
+// }
+
+//-----------------------------
+
+//if-elseif
+//create a program to give grades based on marks
+
+// let marks=8;
+
+// if (marks<=50) {
+//     console.log('D')
+// }else if(marks==70){
+//     console.log('B')
+// }else if(marks>=80){
+//     console.log('A')
+// }
+
+
+//nested if else
+
+// let marks =45
+// if (marks >=33) {
+//     console.log('pass')
+//     if (marks>=80) {
+//         console.log('A')
+//     }else{
+//         console.log('B')
+//     }
+// }else{
+//     console.log('better luck next time')
+// }
+//---------
+// marks=45
+// if ((marks>33 && marks<=80) || !false) {
+//     console.log('pass')
+// }
+//--------------
+// let sen = "airplane"
+
+// if (sen[0]=='a' && sen.length>=3) {
+//     console.log("a good string")
+// }else{
+//     console.log("no")
+// }
+
+//------------
+//switch statement 
+
+// let color = "green"
+
+// switch (color) {
+//     case "red":
+//         console.log('stop')
+//         break;
+//     case "yellow":
+//         console.log('wait')
+//         break;
+//     case "green":
+//         console.log('go')
+//         break;
+//     default:
+//         break;
+// }
+
+
+alert("LETSSS GOOOOO")
