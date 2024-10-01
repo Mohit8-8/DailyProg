@@ -1,0 +1,339 @@
+//program to print a statement 
+public class basics {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
+
+//--------------------------------program to take 2 numbers and print their differences 
+public class basics {
+    public static void main(String args[]){
+        int a=10;
+        int b=5;
+        int ans=a*b/a-b;
+        int diff=(a*b)/(a-b);
+        System.out.println(ans);
+        System.out.println(diff);
+    }
+
+    
+}
+
+
+//----------------program to take 2 numbers from user and print their sum
+import java.util.*;  //library containing all the tools and useful information 
+public class basics {
+
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int a=sc.nextInt();
+
+        
+        int b=sc.nextInt();
+
+        System.out.println(a+b);
+
+        sc.close();
+    }
+}
+
+
+
+// ----- CONDITIONAL STATEMENTS --------
+
+//if else
+//----- program to check whether adult or not
+
+import java.util.*;
+public class basics {
+    public static void main(String[] args) {
+        System.out.println("Enter your age please");
+        Scanner sc= new Scanner(System.in);
+        int age=sc.nextInt();
+        if (age>18) {
+            System.out.println("You are an adult");
+        }
+        else{
+            System.out.println("You are not an adult");
+        }
+        sc.close();
+    }
+}
+
+//----program to check whether even or odd
+import java.util.*;
+public class basics {
+    public static void main(String[] args) {
+        System.out.println("Enter a number to check whether even or odd");
+        Scanner sc=new Scanner(System.in);
+        int num= sc.nextInt();
+        
+        if (num%2==0) {
+            System.out.println("The number is even");
+        }
+        else{
+            System.out.println("The number is odd");
+        }
+        sc.close();
+
+    }
+}
+
+//----program to check which number is bigger (take numbers from user)---else if statements---
+import java.util.*;
+public class basics {
+    public static void main(String[] args) {
+        System.out.println("please enter the first number ");
+
+        Scanner sc= new Scanner(System.in);
+        int a=sc.nextInt();
+
+        System.out.println("please enter the second number ");
+        int b=sc.nextInt();
+
+        if (a==b) {
+            System.out.println("a and b are equal");
+        }
+        else if (a>b) {
+            System.out.println("a is greater than b");
+        }
+        else{
+            System.out.println("b is greater than a");
+        }
+        sc.close();
+
+    }
+}
+
+
+
+
+--------------------STRINGS---------------------
+
+
+public class basics {
+
+    public static void main(String[] args) {
+
+//concatenate
+        String name1="Mohit";
+        String name2="Tomar";
+        String name3=name1 +" "+name2;
+        System.out.println(name3);
+        //-----------------------------
+
+// INDEXING-------
+
+        String name="Mohit";
+        System.out.println(name.charAt(0));//Indexing
+        System.out.println(name.length());//Length 
+        String name2=name.replace("o", "j");//Replace Elements
+        System.out.println(name2);
+
+
+//SUBSTRING
+        String name="Mohit Dev Tomar";
+        String name2= name.substring(0,5);//the last index is not included
+        System.out.println(name2);
+
+    }
+}
+
+----ARRAYS 
+
+import java.util.Arrays;
+
+public class basics {
+    public static void main(String[] args) {
+        int[] marks= new int[3];//no of values we need
+        marks[0]=95;
+        marks[1]=91;
+        marks[2]= 92;
+        //sort
+        Arrays.sort(marks);
+        System.out.println(marks[1]);
+
+    }
+}
+
+------------------
+public class basics {
+
+    public static void main(String[] args) {
+        //int[] marks={91,94,98};
+
+        //2D ARRAY 
+        int[][] finalMarks={{88,79,87},{91,86,89}};//marks of two students 
+        System.out.println(finalMarks[1][2]);//fetches the marks of second student's third subject
+    }
+}
+
+---CASTING
+
+public class basics {
+
+    public static void main(String[] args) {
+        // //implicit conversion
+        // double price=100.00;
+        // double finalprice=price+18;
+        // System.out.println(finalprice);
+
+        // //explicit conversion
+        // int mrp=100;
+        // int fmrp=mrp+(int)18.00;
+        // System.out.println(fmrp);
+
+        //Constant keyword FINAL
+        // float pi=3.14F;//this value can be changed so we need to make it constant
+        final float pi=3.14F;
+        System.out.println(pi);
+    }
+}
+
+-----------Uniray operators 
+
+
+subtraction------------------------------------
+public class basics {
+
+    public static void main(String[] args) {
+        int num=1;
+        System.out.println(num--);//2(here first the number will be INCREASED then used)
+        System.out.println(num);//2
+    }
+}
+
+
+
+public class basics {
+
+    public static void main(String[] args) {
+        int num=1;
+        System.out.println(--num);//2(here first the number will be INCREASED then used)
+        System.out.println(num);//2
+    }
+}
+
+
+additionss 
+
+public class basics {
+
+    public static void main(String[] args) {
+        int num=1;
+        System.out.println(num++);//1 (here first the number will be used then increased)
+        System.out.println(num);//2
+    }
+}
+
+
+public class basics {
+
+    public static void main(String[] args) {
+        int num=1;
+        System.out.println(++num);//2(here first the number will be INCREASED then used)
+        System.out.println(num);//2
+    }
+}
+
+
+public class basics {
+
+    public static void main(String[] args) {
+        System.out.println(Math.min(21, 2));
+        System.out.println(Math.max(21, 2));
+        System.out.println(Math.random());
+        System.out.println((int)(Math.random()*100));
+    }
+}
+
+
+//a simple repeating program
+import java.util.*;
+public class basics {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int n=0;
+        do{
+            System.out.println("input a number");
+            n=sc.nextInt();
+            System.out.print("your number is ");
+            System.out.println(n);
+
+        }while(n>=0);
+        System.out.println("end");
+
+        sc.close();
+
+    }
+}
+
+
+//--BREAK AND CONTINUE ------------------------
+
+public class basics {
+
+    public static void main(String[] args) {
+        int i=0;
+        while (true) {
+            if (i==3) {
+                i++;
+                continue;
+            }
+            System.out.println(i);
+            i++;
+            if (i==5) {
+                break;
+            }
+        }
+    }
+}
+
+//----------Exception handling-------------------------
+//TRY AND CATCH
+
+public class basics {
+
+    public static void main(String[] args) {
+         int[] marks={92,91,61};
+        // System.out.println(marks[4]);
+        // System.out.println("mohit");//here the mohit is not printing out because of the error above   
+        try {
+            System.out.println(marks[4]);
+        } catch (Exception e) {
+            //does something after catching exception
+            System.out.println("mohit");//now the mohit is printing out
+
+        }
+
+    }
+}
+
+
+-------------------------------FUNCTIONS AND METHODS -----------------------------------
+
+public class basics {
+
+    public static void printJava(){
+        System.out.println("Hello World");
+    }
+    public static void name() { 
+        System.out.println("Mohit Tomar");
+    }
+
+    public static void sum(int a , int b ){
+        int sum =  a + b;
+        System.out.println(sum);
+    } 
+
+    public static void main(String[] args) {
+        printJava();
+        printJava();
+        name();  
+
+        sum(91, 48);
+    }
+}
