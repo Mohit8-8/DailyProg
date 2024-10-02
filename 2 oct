@@ -1,0 +1,17 @@
+// Alert displayes an alert message on the page
+alert("This is a warning");
+
+//Error shows in the console window a red line indicating error
+console.error("This is an error message");
+
+//Prompt Displays a dialog box that asks user for some input
+prompt("Enter your name");
+
+
+let name=prompt("Enter your full name");
+console.log(name)
+
+//Code to take first and last name from user and concatenate it and show the name on the console window
+let fname=prompt("Enter your first name");
+let lname=prompt("enter your last name");
+console.log("hello",fname,lname);
