@@ -1,0 +1,63 @@
+//STRING METHODS
+//methods= actions that can be performed on objects
+//format=      stringaName.method()
+
+// str.trim
+// trims whitespaces from both ends of strings and returns a new one
+let msg="      hello ";
+msg.trim(); //hello
+console.log(msg)  //"      hello "
+
+// write a program where the user inputs their password and you remove the extra spaces from that password using the trim method
+let pas =prompt("enter your password")
+let newpas= pas.trim()
+console.log(newpas);
+
+Strings are immutable in js
+
+//toUppercase and toLowercase
+let name=('mOhiT');
+name.toUpperCase();
+name.toLowerCase();
+
+let msg='error'
+console.log(msg.toUpperCase())
+
+string methods with arguments
+argument is a some value that we pass to the method ----- format stringName.method(args)
+indexOf - returns the first index of occurence of some value given in string, or gives -1 if not found.
+
+let str='i love coding'
+str.indexOf('love') //2
+str.indexOf('j') //-1
+
+
+// method chaining 
+// using one method after another. order of execution will be left to right
+let msg= '    hello     '
+let newMsg=msg.toUpperCase()
+console.log("after uppercasing "+newMsg)
+newMsg=msg.trim()
+console.log("after trimming"+newMsg)
+
+//-- now doing this in one line
+let msg='  hello    '
+let newMsg= msg.trim().toUpperCase();
+console.log(newMsg)
+
+//string slicing 
+let str='ilovecoding'
+
+console.log(str.slice(5))
+console.log(str.slice(1,4))
+// str.slice(-num)=str.slice(length-num)
+console.log(str.slice(-2))
+
+//replace- searches a value in the string and returns a new string with the values replaced 
+let str='ilovecoding'
+console.log(str.replace('love','do')) // 'idocoding'
+console.log(str.replace('c','x')) // 'ilovexoding'
+
+//repeat- repeats the number of times the str gets repeated
+let fruit='mango'
+console.log(fruit.repeat(3))//mangomangomango
