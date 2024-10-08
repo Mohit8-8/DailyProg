@@ -1,0 +1,85 @@
+//ARRAYS IN JS
+
+let students=['ayush','raj','karan']
+console.log(students[2])
+students.length
+
+let info=['karan',23,69.6]
+
+let arr=[]
+
+arr[1]=213
+
+console.log(info[0][3])
+
+//arrays are mutable in js
+let fruit=['apple','banana','lichi']
+fruit[0]='papaya'
+console.log(fruit)
+
+//Array Methods "push","pop" 
+let car=['bmw','audi','tata']
+car.push('honda')         //appends an item at the end of the array
+car.pop()                 //removes the last element of the array and returns it
+car.unshift()             //adds the element at the start of the array
+car.shift()               //removes the first element and returns it 
+
+//indexOf - retruns index of something 
+let primary = ['red','blue','yellow']
+console.log(primary.indexOf('yellow'))
+console.log(primary.indexOf('blue'))
+
+//includes - searches for a value and returns true or false whether the value exists or not
+console.log(primary.includes('blue'))
+console.log(primary.includes('green'))
+
+//concat - merge 2 arrays 
+//reverse - reverse an array 
+let p = ['red','blue','green']
+let s = ['yellow','purple','pink']
+console.log(p.concat(s))
+console.log(p.reverse())
+
+//slice - gives a copy of sliced array
+let colors=['yellow','purple','pink','red','blue','green']
+console.log(colors.slice())
+console.log(colors.slice(2))
+console.log(colors.slice(2,3))
+console.log(colors.slice(0,-1))
+console.log(colors.slice(-3))
+console.log(colors.slice(colors.length-1))
+
+//splice - removes/replaaces/add elements in place
+//splice(start,deleteCount,item0...itemN)
+let colors=['yellow','purple','pink','red','blue','green']
+console.log(colors.splice(4)) //removes elements after 4
+console.log(colors.slice(0,1))    // start from 0 imdex amd remove 1 element that is the 0th element 
+console.log(colors.slice(0,1,'black','grey'))//remove the first element and in the place of the zeroth element add black and grey
+console.log(colors)
+
+sort
+let colors=['yellow','purple','pink','red','blue','green']
+console.log(colors.sort()) //sorts based on first alphabet
+
+//array reference 
+let arr=[1]
+let a=[1]
+a=arr //false
+//here the elements are stored at different addresses and thus the result is false
+ar=[1,2,3]
+let b=ar
+ar=b // true because now the array b is also pointing towards the address of the array ar
+
+//constant 
+const arr=[1,2,3]
+arr.push(3)
+arr.pop()
+//we can do all the normal operations on the array but cant change it to another arrray as in arr=cars
+//const makes the reference to the array be constant and doesnt point directly towards the elements of the array
+
+let nums=[[12,11],[1,3],[14,19]]
+
+let arr=[['X',0,0],[0,'X',0],[0,0,'X']]
+arr=[['X',null,0],[null,'X',null],[null,null,'X']]
+
+
