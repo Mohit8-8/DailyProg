@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void findIPClass(unsigned int firstOctet) {
+    if (firstOctet >= 1 && firstOctet <= 126) {
+        printf("Class A\n");
+    } 
+    else if (firstOctet >= 128 && firstOctet <= 191) {
+        printf("Class B\n");
+    } 
+    else if (firstOctet >= 192 && firstOctet <= 223) {
+        printf("Class C\n");
+    } 
+    else if (firstOctet >= 224 && firstOctet <= 239) {
+        printf("Class D (Multicast)\n");
+    } 
+    else if (firstOctet >= 240 && firstOctet <= 255) {
+        printf("Class E (Reserved)\n");
+    } 
+    else {
+        printf("Invalid IP Address\n");
+    }
+}
+
+int main() {
+    unsigned int ip[4];
+
+    printf("Enter IP address (e.g., 192.168.1.1): ");
+    if (scanf("%u.%u.%u.%u", &ip[0], &ip[1], &ip[2], &ip[3]) != 4 || ip[0] > 255 || ip[1] > 255 || ip[2] > 255 || ip[3] > 255) {
+        printf("Invalid IP Address format\n");
+        return 1;
+    }
+
+    printf("The IP address belongs to ");
+    findIPClass(ip[0]);
+
+    return 0;
+}
