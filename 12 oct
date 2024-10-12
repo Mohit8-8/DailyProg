@@ -1,0 +1,108 @@
+# a basic for loop 
+for(let i=0;i<9;i++){
+    console.log("Hello world");
+}
+
+# to print odd numbers
+for(let i=0;i<16;i++){
+    if(i%2!=0){
+        console.log(i)
+    }
+}
+
+# to print even numbers 
+for(let i=0;i<16;i++){
+    if(i%2==0){
+        console.log(i)
+    }
+}
+
+# print table of 5
+for(let i=0;i<=10;i++){
+    console.log(i*5)
+}
+---------------------
+#nested loops 
+for(let i=0;i<=2;i++){
+    for(let j=0;j<=10;j++){
+        console.log(j)
+    }
+}
+----------------
+#while loop
+while(condition){
+    do something
+}
+
+-----------------
+let i=0;
+
+while(i<=5){
+    console.log(i);
+    i++;
+}
+
+---------------
+
+#guess the movie 
+
+let favMov = 'avatar'
+let guess = prompt("guess the movie")
+
+while(guess!=favMov && guess!='quit'){
+    console.log('incorrect try again!')
+    guess=prompt('try again')
+
+}
+
+------------------
+#break statement 
+
+let i=0
+
+while(i<=5){
+    if (i==3) {
+        break
+    }
+    console.log(i);
+    i++;
+}
+
+-------------------
+
+#loops with arrays 
+let fruits = ['mango','apple','lici','orange']
+
+for(let i=0;i<=fruits.length;i++){
+    console.log(i,fruits[i])
+}
+
+-----------------------------------
+let hero=[['iron man','ca','bw'],['superman','ww','cy']]
+
+for(let i =0;i<hero.length;i++){
+    console.log(hero[i])
+    for(let j=0;j<hero[i].length;j++){
+        console.log('j=${j},${hero[i][j]}')
+    }
+}
+-------------------------------------------
+
+// //for of loop
+
+// for(element of collection){
+//     do something
+// }
+
+let fruits = ['mango','apple','lici','orange']
+
+for(fruit of fruits){
+    console.log(fruit)
+}
+
+for(char of 'Mohit Dev Tomar'){
+    console.log(char)
+}
+------------------------------------------
+
+
