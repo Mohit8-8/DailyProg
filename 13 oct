@@ -1,0 +1,73 @@
+let students={
+    name : 'Mohit',
+    marks : 91
+}
+console.log(students.name)
+console.log(students[name])
+console.log(students.marks)
+console.log(students[marks])
+------------------------------
+js automatically converts objects keys to strings 
+even if we made the number as a key , the number will be converted to a string
+
+
+------------------
+let students={
+        name : 'Mohit',
+        marks : 91,
+        city : 'mumbai'
+}
+
+students.marks=94
+//marks is now 94
+
+students.gender = 'Male'
+//new object is created
+
+delete students.city
+
+----------
+
+const Info={
+    aman:{
+        grade:'A',
+        age:21
+    },
+    ayush:{
+        grade:'A',
+        age:21
+    },
+    chetan:{
+        grade:'A',
+        age:21
+    }
+}
+
+Info.aman.grade
+
+
+Math object
+
+//properties
+Math.PI
+Math.E
+
+//methods
+
+let n=2
+Math.abs(n) // absolute number gives us only positiee number math.abs(-21) gives 21
+Math.pow(a,b)
+Math.floor(n) // rounds off to the nearest less value (5.999) gives 5
+Math.ceil(n) // same as above gives 6 instead
+Math.random()
+
+
+--------------
+let num = Math.random()
+--------
+produce a random number between 1 to 10
+
+let random=Math.floor(Math.random()*10)+1;
+random
+
+
