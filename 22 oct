@@ -61,8 +61,8 @@ setInterval(()=>{
     console.log('mohit dev tomar')  
 },4000)            
 
-keeps on printing mohit dev tomar every 4000 seconds 
-to stop the interval for going infitetimes we give it a id 
+//keeps on printing mohit dev tomar every 4000 ms 
+//to stop the interval for going infitetime we give it a id 
 
 let id = setInterval(()=>{
     console.log('mohit dev tomar')  
