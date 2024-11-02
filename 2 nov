@@ -1,0 +1,55 @@
+//-----------------------------------------------------------------
+//for each method
+
+let arr=[1,2,3,4,5]
+
+// METHOD NUMBER 1 
+let print = function(el){
+    console.log(el)
+}
+arr.forEach(print);
+
+
+//METHOD NUMBER 2
+
+arr.forEach(function(el){console.log(el);});
+
+//METHOD NUMBER 3
+arr.forEach((el)=>{console.log(el)})
+
+
+let arr=[
+    {
+        name: 'mohit',
+        marks:91
+    },
+    {
+        name: 'karan',
+        marks:94
+    },
+    {
+        name: 'uv',
+        marks:93
+    },
+];
+
+arr.forEach((students)=>console.log(students.marks));
+
+//-------------------------------
+// MAP - let newArr = arr.map(some function) - creates a new array by calling a function on every element of the original array and storing the results in a new array
+
+let num = [1,2,3,4]
+let double = num.map((el)=>{
+    return el*2
+}) 
+
+// FILTER - let newArr = arr.filter(some function ) - d creates a new array filled with elements that pass a test provided by a function.
+
+let nums = [2,4,1,4,7,3,9,6]
+
+let even = nums.filter((num) => (num%2==0)); //will filter out and only returns even numbers
+
+//-----------------------------------
+//EVERY - returns true if every element of array guves true for some function. else return false
+
+[2,4,5].every((el) => el%2==0);
