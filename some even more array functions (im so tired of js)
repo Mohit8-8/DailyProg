@@ -1,0 +1,54 @@
+//-----------------------------------
+
+//spread function is used as (...)
+
+
+let array = [1,2,3,4,5]
+console.log(...array)
+
+
+//
+function sum(x, y, z) {
+    return x + y + z;
+  }
+  
+const numbers = [1, 2, 3];
+  
+console.log(sum(...numbers));
+  // Expected output: 6
+  
+console.log(sum.apply(null, numbers));
+  // Expected output: 6
+  
+
+//REST function - allows function to take indefinite num of arguments and bundle them in an array
+
+function sum(...args){
+    for(let i = 0 ; i < args.length;i++){
+        console.log('args are ',args[i]);
+    }
+}
+
+function min(a,b,c,d){
+    console.log(arguments); //arguments keyword autoatically stores all of arguments inside it 
+}
+
+//DESTRUCTURING -storing values of array into multiple vairables 
+
+let names=['tony','bruce','peter','hulk']
+let [winner,runup,...others] = names //automatically assigns winner the names[0]and in runup assigns names[1]
+
+const student = {
+    name:'karan',
+    age:15,
+    subject:['eng','hindi'],
+    user:'karan123',
+    pswd:'0000'
+}
+
+let {user, pswd} = student;  //automatically searches user and pswd from student and returns it 
+
+let {username = user,secret= pswd} = student; 
+
+//assigned user to username and pwsd to secret now we can only access these if we search for username and secret
+
