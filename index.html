@@ -1,120 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-
-    <!-- Declared Vars To Go Here -->
-
-    <meta charset="utf-8">
+<head>
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory FlipCard Game | AsmrProg</title>
+</head>
+<body>
 
-    <!-- Metadata -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <link rel="icon" href="mysource_files/favicon.ico">
-
-    <!-- Page Name and Site Name -->
-    <title>Page Name - Squiz Matrix HTML Example</title>
-
-    <!-- CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-    <link href="mysource_files/style.css" rel="stylesheet">
-
-  </head>
-
-  <body>
-
-    <div class="container">
-
-      <header class="header clearfix" style="background-color: #ffffff">
-
-        <!-- Main Menu -->
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </nav>
-
-        <!-- Site Name -->
-        <h1 class="h3 text-muted">Site Name</h1>
-
-        <!-- Breadcrumbs -->
-        <ol class="breadcrumb">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Level 1</a></li>
-          <li class="active">Level 2</li>
-        </ol>
-
-      </header>
-
-      <div class="page-heading">
-
-        <!-- Page Heading -->
-        <h1>Page Heading</h1>
-
-      </div>
-
-      <div class="row">
-
-        <div class="col-sm-3">
-
-          <!-- Sub Navigation -->
-          <ul class="nav nav-pills nav-stacked">
-            <li><a href="#">Level 2</a></li>
-            <li class="active"><a href="#">Level 2</a>
-              <ul>
-                <li><a href="#">Level 3</a></li>
-                <li><a href="#">Level 3</a></li>
-                <li><a href="#">Level 3</a></li>
-              </ul>
+    <div class="wrapper">
+        <ul class="cards">
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-tiktok'></i>
+                </div>
             </li>
-            <li><a href="#">Level 2</a></li>
-          </ul>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-instagram-alt'></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-facebook-circle' ></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-twitter'></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-whatsapp' ></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-youtube' ></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-tiktok'></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-instagram-alt'></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-facebook-circle' ></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-twitter'></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-whatsapp' ></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="view front-view">
+                    <i class='bx bx-question-mark'></i>
+                </div>
+                <div class="view back-view">
+                    <i class='bx bxl-youtube' ></i>
+                </div>
+            </li>
 
-        </div>
+            <div class="details">
+                <p class="time">Time : <span><b>0</b>s</span></p>
+                <p class="flips">Flips : <span><b>0</b></span></p>
+                <button>Refresh</button>
+            </div>
+        </ul>
+    </div>
 
-        <div class="col-sm-6">
 
-          <div class="page-contents">
+    
+    <script src="script.js"></script>
 
-            <!-- Design Body -->
-            <h2>Sub Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-            <h4>Sub Heading</h4>
-            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-            <h4>Sub Heading</h4>
-            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-
-          </div>
-
-        </div>
-
-        <div class="col-sm-3">
-
-          <!-- Login Section -->
-          <h2>Login</h2>
-
-          <!-- Search Section -->
-          <h2>Search</h2>
-
-          <!-- Nested Right Column Content -->
-
-        </div>
-
-      </div>
-
-      <footer class="footer">
-        <p class="pull-right">
-          <!-- Last Updated Design Area-->
-          Last Updated: Wednesday, January 6, 2016
-        </p>
-        <p>&copy; 2016 Company, Inc.</p>
-      </footer>
-
-    </div> <!-- /container -->
-
-  </body>
+</body>
 </html>
