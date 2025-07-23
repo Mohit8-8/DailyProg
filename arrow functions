@@ -1,0 +1,42 @@
+// var magic = function() {
+//   return new Date();
+// };
+
+
+function sum(a,b){
+  return a+b
+}
+
+let sum2 = (a,b) => {
+  return a+b
+}
+
+let sum3= (a,b) => a+b
+
+let isPos = (number) => {
+  return number>=0
+}
+
+let ispos = (number) => number>=0
+
+let random = () => Math.random
+
+document.addEventListener('click',function(){
+  console.log('click')
+})
+
+document.addEventListener('click',()=>console.log('click'))
+
+
+printName(){
+  setTimeout(()=>{
+    console.log('arrow'+this.name)
+  },100)
+}
+
+printname(){
+  setTimeout(function(){
+    console.log('function'+this.name)
+  },100)
+}
+
