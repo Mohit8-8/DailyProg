@@ -1,0 +1,16 @@
+const increment = (number, value=1) => number + value;
+const greeting =(name = "Anonymous") => "hello " +name;
+console.log(greeting("John"));
+console.log(greeting());
+
+
+//Use the Rest Parameter with Function Parameters
+const sum = (...args) => {
+  return args.reduce((a, b) => a + b, 0);
+}
+
+function howMany(...args) {
+  return "You have passed " + args.length + " arguments.";
+}
+console.log(howMany(0, 1, 2));
+console.log(howMany("string", null, [1, 2, 3], { }));
