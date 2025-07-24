@@ -1,0 +1,18 @@
+var myConcat = function(arr1, arr2) {
+  return arr1.concat(arr2);
+};
+
+const myConcat = (arr1,arr2) => (arr1.concat(arr2))
+
+console.log(myConcat([1, 2], [3, 4, 5]));
+
+const doubler = (item) => console.log(item * 2);
+doubler(12);
+
+const double = item => item*2;
+
+const multiple = (item, multi) => item *multi
+const multiply = (item, multi) => console.log(item *multi)
+multiply(18,3)
+
+console.log('text')
