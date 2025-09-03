@@ -1,0 +1,61 @@
+let age = 10;
+
+const something = () =>{
+  return age>10 ? console.log('Adult'):console.log('child');
+}
+
+something()
+
+-----------------------------------------------
+
+//DESTRUCTURING 
+const person={
+  name: name,
+  age: 20,
+  marr: false
+}
+
+const {name, age, marr} = person;
+
+--------
+  const name = 'mohit'
+const age  = 20
+
+const person={
+  name,
+  age,
+  marr: false
+}
+
+
+---------------------
+  const person={
+  name:'mohit',
+  age: 20,
+  marr: false
+}
+
+console.log(person)
+
+const person2 = {...person, name:'pedro'}
+
+console.log(person2)
+
+
+---------------------
+  
+const nums= [10, 20 , 40]
+const nums2 = [...nums, 1000, 2000, 4000]
+
+console.log(nums2)
+-------------------------
+  // map , filter, reduce
+let names = ['mohit', 'perdro', 'carol', 'pedro']
+
+names.map((names) => {
+  return names + '1'
+})
+
+names.filter((name)=>{
+  return name!=='perdro'
+})
