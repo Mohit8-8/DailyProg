@@ -1,0 +1,31 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+vector<int> buildPrefixSum(const vector<int>& arr){
+    int n = arr.size();
+    vector<int> prefix(n);
+    prefix[0] = arr[0]; //first ele is always same
+    //build the prefix sum arr
+    for(int i = 1; i < n; i++){
+        prefix[i] = prefix[i-1] + arr[i];
+    }
+    return prefix;
+}
+
+int rangeSum(const vector<int>& prefix, int l, int r){
+    if(l == 0) return prefix[r];
+    return prefix[r] - prefix[l-1];
+}
+
+int main(){
+    vector<int> sales = {10,20,15,25,30};
+    vector<int> prefix = buildPrefixSum(sales);
+    
+    cout<<"prefix sum: ";
+    for(auto it : prefix) cout<<it<<" "<<endl;
+    
+    int l = 1, r = 3;
+    int total = rangeSum(prefix, l, r);
+    cout << "Total sales from day " << l+1 << " to day " << r+1 << ": " << total << endl;
+    return 0;
+}
