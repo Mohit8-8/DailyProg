@@ -27,6 +27,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -105,4 +106,5 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
