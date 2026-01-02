@@ -9,6 +9,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
@@ -44,11 +46,13 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
@@ -75,6 +79,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
@@ -89,6 +94,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 ## Depth-First Search
 |  |
