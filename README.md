@@ -34,6 +34,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mohit8-8/DailyProg/tree/master/0485-max-consecutive-ones) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
@@ -84,6 +85,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
