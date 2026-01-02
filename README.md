@@ -27,6 +27,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 ## Depth-First Search
