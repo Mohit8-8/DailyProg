@@ -25,6 +25,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
