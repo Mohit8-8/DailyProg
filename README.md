@@ -15,6 +15,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
@@ -28,6 +29,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
@@ -140,6 +142,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 ## Counting
 |  |
