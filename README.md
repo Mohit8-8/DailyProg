@@ -21,6 +21,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit8-8/DailyProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit8-8/DailyProg/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 ## Memoization
 |  |
@@ -47,6 +48,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Mohit8-8/DailyProg/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit8-8/DailyProg/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Mohit8-8/DailyProg/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
