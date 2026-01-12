@@ -49,6 +49,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0485-max-consecutive-ones](https://github.com/Mohit8-8/DailyProg/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
+| [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Mohit8-8/DailyProg/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit8-8/DailyProg/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -79,6 +80,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
@@ -157,6 +159,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
