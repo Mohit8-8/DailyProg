@@ -61,6 +61,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/Mohit8-8/DailyProg/tree/master/3453-separate-squares-i) |
@@ -128,6 +129,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Simulation
 |  |
 | ------- |
@@ -210,4 +212,8 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
