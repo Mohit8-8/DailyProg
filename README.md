@@ -26,6 +26,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit8-8/DailyProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0931-minimum-falling-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0931-minimum-falling-path-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit8-8/DailyProg/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
@@ -56,6 +57,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
+| [0931-minimum-falling-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -82,6 +84,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Mohit8-8/DailyProg/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
+| [0931-minimum-falling-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0931-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Mohit8-8/DailyProg/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
