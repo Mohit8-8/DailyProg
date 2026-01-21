@@ -19,6 +19,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mohit8-8/DailyProg/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit8-8/DailyProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Mohit8-8/DailyProg/tree/master/0085-maximal-rectangle) |
@@ -75,6 +77,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Mohit8-8/DailyProg/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
