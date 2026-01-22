@@ -80,6 +80,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Mohit8-8/DailyProg/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +120,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -152,11 +154,13 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohit8-8/DailyProg/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -241,4 +245,16 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
