@@ -1,27 +1,20 @@
 class Solution {
-    bool helper(int n, vector<int>& nums, int target, vector<vector<int>>& dp){
-        if(target==0) return true;
-        if(n==0) return false;
-        if(dp[n][target]!=-1) return dp[n][target];
-
-        bool notake = helper(n-1, nums, target, dp);
-        bool take = false;
-        if(nums[n-1]<=target){
-            take = helper(n-1, nums , target-nums[n-1], dp);
-        }
-
-        return dp[n][target] = take || notake;
+    bool helper(vector<int>&nums, int i, int sum, vector<vector<int>>& dp){
+        if(sum == 0) return true;
+        if(i == nums.size()|| sum < 0) return false;
+        if(dp[i][sum]!=-1) return dp[i][sum];
+        bool choose = helper(nums, i+1 ,sum - nums[i], dp);
+        bool notchoose = helper(nums, i+1, sum, dp);
+        return dp[i][sum] = (choose || notchoose);
     }
 public:
     bool canPartition(vector<int>& nums) {
-        int totsum = 0;
-        for(int x:nums){
-            totsum+=x;
+        int n = nums.size(), sum = 0;
+        for(int i : nums){
+            sum+=i;
         }
-        if(totsum%2!=0) return false;
-        int target = totsum/2;
-        int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int>(target+1, -1));
-        return helper(n, nums, target, dp);
+        if(sum & 1 ) return false;
+        vector<vector<int>>dp(n+1, vector<int>(sum+1 , -1));
+        return helper(nums, 0, sum/2, dp);
     }
 };
