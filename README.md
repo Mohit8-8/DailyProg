@@ -69,6 +69,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1895-largest-magic-square](https://github.com/Mohit8-8/DailyProg/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Mohit8-8/DailyProg/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mohit8-8/DailyProg/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
@@ -113,6 +114,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mohit8-8/DailyProg/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -268,4 +270,8 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mohit8-8/DailyProg/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
