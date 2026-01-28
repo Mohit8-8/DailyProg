@@ -25,6 +25,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0120-triangle](https://github.com/Mohit8-8/DailyProg/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit8-8/DailyProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
@@ -141,6 +142,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
