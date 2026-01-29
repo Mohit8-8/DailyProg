@@ -80,6 +80,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mohit8-8/DailyProg/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -151,6 +152,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mohit8-8/DailyProg/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,9 +290,11 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mohit8-8/DailyProg/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mohit8-8/DailyProg/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
