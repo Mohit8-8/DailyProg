@@ -29,6 +29,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0583-delete-operation-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/Mohit8-8/DailyProg/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -149,6 +150,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0583-delete-operation-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
+| [1092-shortest-common-supersequence](https://github.com/Mohit8-8/DailyProg/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mohit8-8/DailyProg/tree/master/2483-minimum-penalty-for-a-shop) |
