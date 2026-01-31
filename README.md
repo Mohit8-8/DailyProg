@@ -62,6 +62,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mohit8-8/DailyProg/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit8-8/DailyProg/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0931-minimum-falling-path-sum) |
@@ -110,6 +111,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit8-8/DailyProg/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
