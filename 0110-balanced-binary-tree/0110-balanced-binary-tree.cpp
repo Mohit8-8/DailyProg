@@ -12,28 +12,29 @@
 class Solution {
 public:
 
-    int height(TreeNode* root){
-        if (!root) return 0;
+    // int height(TreeNode* root){
+    //     if (!root) return 0;
 
-        int leftHeight = height(root -> left);
-        int rightHeight = height(root -> right);
+    //     int leftHeight = height(root -> left);
+    //     int rightHeight = height(root -> right);
 
-        return 1 + max(leftHeight,rightHeight);
-    }
+    //     return 1 + max(leftHeight,rightHeight);
+    // }
 
-    bool isHeightBalanced(TreeNode* root){
+    pair<bool,int> isHeightBalanced(TreeNode* root){
 
-        if (!root) return true;
+        if (root == nullptr) return make_pair(true,0);
+        
+        auto [isLeftBalanced,leftHeight] = isHeightBalanced(root -> left);
+        auto [isRightBalanced,rightHeight] = isHeightBalanced(root -> right);
 
-        int leftHeight= height(root -> left);
-        int rightHeight = height(root -> right);
+        if (!isLeftBalanced || !isRightBalanced) return {false,1 + max(leftHeight,rightHeight)};
+        if (abs(leftHeight - rightHeight) > 1) return {false,1 + max(leftHeight,rightHeight)};
 
-        if (abs(leftHeight - rightHeight) > 1) return false;
-
-        return (isHeightBalanced(root -> left) && isHeightBalanced(root -> right));
+        return {true,1 + max(leftHeight,rightHeight)};
     }
 
     bool isBalanced(TreeNode* root) {
-        return isHeightBalanced(root);
+        return isHeightBalanced(root).first;
     }
 };
