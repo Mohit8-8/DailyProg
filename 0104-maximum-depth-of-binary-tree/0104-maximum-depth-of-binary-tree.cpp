@@ -11,30 +11,22 @@
  */
 class Solution {
 public:
+
+    void helper(TreeNode* root,int curr_depth,int &depth){
+
+        if (!root) return;
+
+        depth = max(curr_depth,depth);
+
+        helper(root -> left,curr_depth+1,depth);
+        helper(root-> right,curr_depth + 1,depth);
+    }
+
     int maxDepth(TreeNode* root) {
         if (!root) return 0;
+        int depth = 0;
+        helper(root,0,depth);
 
-        int height = 0;
-        queue<TreeNode*> q;
-
-        q.push(root);
-
-        while(!q.empty()){
-
-            int level_size = q.size();
-
-            for(int i = 0;i < level_size;i++){
-
-                TreeNode* frontNode = q.front();q.pop();
-
-                if (frontNode -> left) q.push(frontNode -> left);
-                if (frontNode -> right) q.push(frontNode -> right);
-
-            }
-
-            height++;
-        }
-
-        return height;
+        return depth+1;
     }
 };
