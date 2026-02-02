@@ -21,20 +21,22 @@ public:
     //     return 1 + max(leftHeight,rightHeight);
     // }
 
-    pair<bool,int> isHeightBalanced(TreeNode* root){
+    int isHeightBalanced(TreeNode* root){
 
-        if (root == nullptr) return make_pair(true,0);
+        if (root == nullptr) return 0;
         
-        auto [isLeftBalanced,leftHeight] = isHeightBalanced(root -> left);
-        auto [isRightBalanced,rightHeight] = isHeightBalanced(root -> right);
+        int leftHeight = isHeightBalanced(root -> left);
+        int rightHeight = isHeightBalanced(root -> right);
 
-        if (!isLeftBalanced || !isRightBalanced) return {false,1 + max(leftHeight,rightHeight)};
-        if (abs(leftHeight - rightHeight) > 1) return {false,1 + max(leftHeight,rightHeight)};
+        if (leftHeight == -1 || rightHeight == -1) return -1;
+        if (abs(leftHeight - rightHeight) > 1) return -1;
 
-        return {true,1 + max(leftHeight,rightHeight)};
+        return 1 + max(leftHeight,rightHeight);
     }
 
     bool isBalanced(TreeNode* root) {
-        return isHeightBalanced(root).first;
+        int ans = isHeightBalanced(root);
+        if (ans == -1) return false;
+        return true;
     }
 };
