@@ -45,6 +45,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
@@ -246,6 +247,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
