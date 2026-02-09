@@ -115,6 +115,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit8-8/DailyProg/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -208,6 +209,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -269,6 +271,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0110-balanced-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit8-8/DailyProg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -283,6 +286,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0110-balanced-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit8-8/DailyProg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
