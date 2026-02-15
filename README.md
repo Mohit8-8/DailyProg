@@ -7,6 +7,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -206,6 +208,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/Mohit8-8/DailyProg/tree/master/3379-transformed-array) |
@@ -218,6 +221,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
