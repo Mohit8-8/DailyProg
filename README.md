@@ -223,6 +223,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Mohit8-8/DailyProg/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
@@ -272,6 +273,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Mohit8-8/DailyProg/tree/master/0190-reverse-bits) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
