@@ -292,6 +292,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -307,6 +308,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -377,4 +379,8 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
