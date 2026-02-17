@@ -217,6 +217,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Mohit8-8/DailyProg/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
@@ -226,6 +227,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0190-reverse-bits](https://github.com/Mohit8-8/DailyProg/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Mohit8-8/DailyProg/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
