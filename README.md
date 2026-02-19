@@ -166,6 +166,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/Mohit8-8/DailyProg/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [1092-shortest-common-supersequence](https://github.com/Mohit8-8/DailyProg/tree/master/1092-shortest-common-supersequence) |
@@ -267,6 +268,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Mohit8-8/DailyProg/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
