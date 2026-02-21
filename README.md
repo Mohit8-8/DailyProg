@@ -11,6 +11,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit8-8/DailyProg/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Mohit8-8/DailyProg/tree/master/1390-four-divisors) |
@@ -232,6 +233,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Mohit8-8/DailyProg/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit8-8/DailyProg/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Depth-First Search
