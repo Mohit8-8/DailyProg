@@ -234,6 +234,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0401-binary-watch](https://github.com/Mohit8-8/DailyProg/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit8-8/DailyProg/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Mohit8-8/DailyProg/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Depth-First Search
