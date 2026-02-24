@@ -248,6 +248,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -304,6 +305,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -320,6 +322,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
