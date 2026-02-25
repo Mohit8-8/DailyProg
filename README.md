@@ -74,6 +74,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1200-minimum-absolute-difference](https://github.com/Mohit8-8/DailyProg/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Mohit8-8/DailyProg/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit8-8/DailyProg/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Mohit8-8/DailyProg/tree/master/1463-cherry-pickup-ii) |
@@ -137,6 +138,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0761-special-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Mohit8-8/DailyProg/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mohit8-8/DailyProg/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
@@ -235,6 +237,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit8-8/DailyProg/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Mohit8-8/DailyProg/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Depth-First Search
@@ -290,6 +293,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/Mohit8-8/DailyProg/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
