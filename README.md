@@ -186,6 +186,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mohit8-8/DailyProg/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mohit8-8/DailyProg/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
