@@ -197,6 +197,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mohit8-8/DailyProg/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit8-8/DailyProg/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohit8-8/DailyProg/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -256,6 +257,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0401-binary-watch](https://github.com/Mohit8-8/DailyProg/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit8-8/DailyProg/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
