@@ -17,6 +17,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1390-four-divisors](https://github.com/Mohit8-8/DailyProg/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mohit8-8/DailyProg/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Mohit8-8/DailyProg/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Mohit8-8/DailyProg/tree/master/1975-maximum-matrix-sum) |
@@ -128,6 +130,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1463-cherry-pickup-ii](https://github.com/Mohit8-8/DailyProg/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Mohit8-8/DailyProg/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Mohit8-8/DailyProg/tree/master/1975-maximum-matrix-sum) |
@@ -155,6 +158,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1200-minimum-absolute-difference](https://github.com/Mohit8-8/DailyProg/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mohit8-8/DailyProg/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
@@ -166,6 +170,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -214,6 +219,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Mohit8-8/DailyProg/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mohit8-8/DailyProg/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit8-8/DailyProg/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
