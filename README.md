@@ -207,6 +207,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Mohit8-8/DailyProg/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0583-delete-operation-for-two-strings) |
@@ -246,6 +247,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
+| [0126-word-ladder-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Mohit8-8/DailyProg/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
@@ -279,6 +281,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Mohit8-8/DailyProg/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit8-8/DailyProg/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -323,6 +326,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0100-same-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohit8-8/DailyProg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Mohit8-8/DailyProg/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
