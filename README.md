@@ -319,6 +319,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0210-course-schedule-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Mohit8-8/DailyProg/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Mohit8-8/DailyProg/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/Mohit8-8/DailyProg/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -336,6 +337,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0199-binary-tree-right-side-view](https://github.com/Mohit8-8/DailyProg/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Mohit8-8/DailyProg/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Mohit8-8/DailyProg/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/Mohit8-8/DailyProg/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohit8-8/DailyProg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -463,6 +465,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Mohit8-8/DailyProg/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Mohit8-8/DailyProg/tree/master/0802-find-eventual-safe-states) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -499,4 +502,5 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Mohit8-8/DailyProg/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
