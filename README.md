@@ -46,6 +46,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohit8-8/DailyProg/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
+| [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit8-8/DailyProg/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -102,6 +103,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
+| [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit8-8/DailyProg/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -148,6 +150,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1895-largest-magic-square](https://github.com/Mohit8-8/DailyProg/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Mohit8-8/DailyProg/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit8-8/DailyProg/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit8-8/DailyProg/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -206,6 +209,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Mohit8-8/DailyProg/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -233,6 +237,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohit8-8/DailyProg/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mohit8-8/DailyProg/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mohit8-8/DailyProg/tree/master/3713-longest-balanced-substring-i) |
@@ -498,6 +503,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Mohit8-8/DailyProg/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mohit8-8/DailyProg/tree/master/1020-number-of-enclaves) |
+| [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
