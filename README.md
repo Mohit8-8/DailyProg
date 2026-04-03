@@ -51,6 +51,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit8-8/DailyProg/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mohit8-8/DailyProg/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Memoization
 |  |
 | ------- |
@@ -132,6 +133,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3634-minimum-removals-to-balance-array](https://github.com/Mohit8-8/DailyProg/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit8-8/DailyProg/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Mohit8-8/DailyProg/tree/master/3668-restore-finishing-order) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
@@ -174,6 +176,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3453-separate-squares-i](https://github.com/Mohit8-8/DailyProg/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +200,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit8-8/DailyProg/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mohit8-8/DailyProg/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
