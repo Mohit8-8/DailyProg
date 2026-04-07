@@ -307,6 +307,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0874-walking-robot-simulation](https://github.com/Mohit8-8/DailyProg/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mohit8-8/DailyProg/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit8-8/DailyProg/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
@@ -535,6 +536,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2069-walking-robot-simulation-ii) |
 ## Topological Sort
 |  |
 | ------- |
