@@ -134,6 +134,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3634-minimum-removals-to-balance-array](https://github.com/Mohit8-8/DailyProg/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit8-8/DailyProg/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit8-8/DailyProg/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Mohit8-8/DailyProg/tree/master/3668-restore-finishing-order) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
@@ -316,6 +317,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3379-transformed-array](https://github.com/Mohit8-8/DailyProg/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit8-8/DailyProg/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -401,6 +403,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mohit8-8/DailyProg/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit8-8/DailyProg/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
