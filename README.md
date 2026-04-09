@@ -94,6 +94,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1463-cherry-pickup-ii](https://github.com/Mohit8-8/DailyProg/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -506,6 +507,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0210-course-schedule-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Mohit8-8/DailyProg/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mohit8-8/DailyProg/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -529,11 +531,13 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Mohit8-8/DailyProg/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mohit8-8/DailyProg/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1584-min-cost-to-connect-all-points) |
 | [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Design
 |  |
