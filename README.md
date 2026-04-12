@@ -40,6 +40,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1092-shortest-common-supersequence](https://github.com/Mohit8-8/DailyProg/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mohit8-8/DailyProg/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit8-8/DailyProg/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Mohit8-8/DailyProg/tree/master/1463-cherry-pickup-ii) |
@@ -245,6 +246,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1092-shortest-common-supersequence](https://github.com/Mohit8-8/DailyProg/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohit8-8/DailyProg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mohit8-8/DailyProg/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mohit8-8/DailyProg/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit8-8/DailyProg/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
