@@ -100,6 +100,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit8-8/DailyProg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit8-8/DailyProg/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -182,6 +183,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit8-8/DailyProg/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit8-8/DailyProg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -409,6 +411,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Mohit8-8/DailyProg/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit8-8/DailyProg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit8-8/DailyProg/tree/master/3643-flip-square-submatrix-vertically) |
