@@ -11,6 +11,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/Mohit8-8/DailyProg/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit8-8/DailyProg/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mohit8-8/DailyProg/tree/master/1266-minimum-time-visiting-all-points) |
@@ -34,6 +35,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0085-maximal-rectangle](https://github.com/Mohit8-8/DailyProg/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Mohit8-8/DailyProg/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit8-8/DailyProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/Mohit8-8/DailyProg/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohit8-8/DailyProg/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohit8-8/DailyProg/tree/master/0583-delete-operation-for-two-strings) |
@@ -82,6 +84,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/Mohit8-8/DailyProg/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mohit8-8/DailyProg/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
