@@ -70,6 +70,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Mohit8-8/DailyProg/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
@@ -208,6 +209,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohit8-8/DailyProg/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
@@ -258,6 +260,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohit8-8/DailyProg/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Mohit8-8/DailyProg/tree/master/0127-word-ladder) |
@@ -310,6 +313,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mohit8-8/DailyProg/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Mohit8-8/DailyProg/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/0128-longest-consecutive-sequence) |
