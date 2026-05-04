@@ -6,6 +6,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mohit8-8/DailyProg/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mohit8-8/DailyProg/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mohit8-8/DailyProg/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mohit8-8/DailyProg/tree/master/0070-climbing-stairs) |
@@ -72,6 +73,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Mohit8-8/DailyProg/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohit8-8/DailyProg/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
@@ -166,6 +168,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mohit8-8/DailyProg/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Mohit8-8/DailyProg/tree/master/0085-maximal-rectangle) |
