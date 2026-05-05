@@ -435,6 +435,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Mohit8-8/DailyProg/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
@@ -530,6 +531,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Mohit8-8/DailyProg/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
