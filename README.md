@@ -62,6 +62,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mohit8-8/DailyProg/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mohit8-8/DailyProg/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/Mohit8-8/DailyProg/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Memoization
@@ -159,6 +160,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3637-trionic-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit8-8/DailyProg/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit8-8/DailyProg/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/Mohit8-8/DailyProg/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Mohit8-8/DailyProg/tree/master/3668-restore-finishing-order) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
