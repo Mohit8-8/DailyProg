@@ -133,6 +133,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mohit8-8/DailyProg/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit8-8/DailyProg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mohit8-8/DailyProg/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Mohit8-8/DailyProg/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohit8-8/DailyProg/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -370,6 +371,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit8-8/DailyProg/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mohit8-8/DailyProg/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Mohit8-8/DailyProg/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit8-8/DailyProg/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Mohit8-8/DailyProg/tree/master/3379-transformed-array) |
