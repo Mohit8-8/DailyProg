@@ -89,6 +89,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0128-longest-consecutive-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mohit8-8/DailyProg/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
@@ -215,6 +216,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit8-8/DailyProg/tree/master/0744-find-smallest-letter-greater-than-target) |
