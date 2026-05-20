@@ -141,6 +141,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit8-8/DailyProg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohit8-8/DailyProg/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Mohit8-8/DailyProg/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Mohit8-8/DailyProg/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohit8-8/DailyProg/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Mohit8-8/DailyProg/tree/master/2784-check-if-array-is-good) |
@@ -359,6 +360,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Mohit8-8/DailyProg/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Mohit8-8/DailyProg/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mohit8-8/DailyProg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -418,6 +420,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mohit8-8/DailyProg/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Depth-First Search
