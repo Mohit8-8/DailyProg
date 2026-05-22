@@ -76,6 +76,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Mohit8-8/DailyProg/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohit8-8/DailyProg/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
@@ -219,6 +220,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
