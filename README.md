@@ -97,6 +97,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Mohit8-8/DailyProg/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mohit8-8/DailyProg/tree/master/0485-max-consecutive-ones) |
@@ -229,6 +230,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit8-8/DailyProg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohit8-8/DailyProg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit8-8/DailyProg/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mohit8-8/DailyProg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit8-8/DailyProg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -246,6 +248,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Mohit8-8/DailyProg/tree/master/1200-minimum-absolute-difference) |
@@ -361,6 +364,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0128-longest-consecutive-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Mohit8-8/DailyProg/tree/master/0840-magic-squares-in-grid) |
@@ -488,6 +492,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Mohit8-8/DailyProg/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit8-8/DailyProg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
