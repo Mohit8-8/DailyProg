@@ -97,6 +97,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0189-rotate-array](https://github.com/Mohit8-8/DailyProg/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohit8-8/DailyProg/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Mohit8-8/DailyProg/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0416-partition-equal-subset-sum) |
@@ -248,6 +249,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/Mohit8-8/DailyProg/tree/master/0905-sort-array-by-parity) |
@@ -275,6 +277,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Mohit8-8/DailyProg/tree/master/2402-meeting-rooms-iii) |
@@ -364,6 +367,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0128-longest-consecutive-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohit8-8/DailyProg/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohit8-8/DailyProg/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit8-8/DailyProg/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/Mohit8-8/DailyProg/tree/master/0756-pyramid-transition-matrix) |
@@ -506,6 +510,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [0053-maximum-subarray](https://github.com/Mohit8-8/DailyProg/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mohit8-8/DailyProg/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Mohit8-8/DailyProg/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit8-8/DailyProg/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
@@ -513,6 +518,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohit8-8/DailyProg/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohit8-8/DailyProg/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/Mohit8-8/DailyProg/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Mohit8-8/DailyProg/tree/master/3713-longest-balanced-substring-i) |
@@ -665,4 +671,12 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit8-8/DailyProg/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
