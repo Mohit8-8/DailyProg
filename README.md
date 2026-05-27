@@ -77,6 +77,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit8-8/DailyProg/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mohit8-8/DailyProg/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Mohit8-8/DailyProg/tree/master/0048-rotate-image) |
@@ -289,6 +290,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohit8-8/DailyProg/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohit8-8/DailyProg/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit8-8/DailyProg/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohit8-8/DailyProg/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -493,6 +495,7 @@ This repository contains the daily activity i have done in my coding journey whe
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mohit8-8/DailyProg/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit8-8/DailyProg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mohit8-8/DailyProg/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Mohit8-8/DailyProg/tree/master/0075-sort-colors) |
