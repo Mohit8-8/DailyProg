@@ -165,6 +165,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mohit8-8/DailyProg/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit8-8/DailyProg/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mohit8-8/DailyProg/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -339,6 +340,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohit8-8/DailyProg/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mohit8-8/DailyProg/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mohit8-8/DailyProg/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3714-longest-balanced-substring-ii) |
@@ -640,6 +642,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mohit8-8/DailyProg/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mohit8-8/DailyProg/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
