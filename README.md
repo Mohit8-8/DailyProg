@@ -167,6 +167,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit8-8/DailyProg/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mohit8-8/DailyProg/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -241,6 +242,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit8-8/DailyProg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mohit8-8/DailyProg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mohit8-8/DailyProg/tree/master/2054-two-best-non-overlapping-events) |
+| [3161-block-placement-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Mohit8-8/DailyProg/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3454-separate-squares-ii) |
@@ -585,6 +587,7 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Mohit8-8/DailyProg/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
@@ -689,4 +692,8 @@ This repository contains the daily activity i have done in my coding journey whe
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohit8-8/DailyProg/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Mohit8-8/DailyProg/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
