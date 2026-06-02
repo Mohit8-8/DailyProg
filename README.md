@@ -185,6 +185,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit8-8/DailyProg/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit8-8/DailyProg/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit8-8/DailyProg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mohit8-8/DailyProg/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Mohit8-8/DailyProg/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit8-8/DailyProg/tree/master/3643-flip-square-submatrix-vertically) |
@@ -249,6 +250,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3453-separate-squares-i](https://github.com/Mohit8-8/DailyProg/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit8-8/DailyProg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -282,6 +284,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohit8-8/DailyProg/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit8-8/DailyProg/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit8-8/DailyProg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mohit8-8/DailyProg/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
@@ -313,6 +316,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mohit8-8/DailyProg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit8-8/DailyProg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit8-8/DailyProg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -520,6 +524,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [1861-rotating-the-box](https://github.com/Mohit8-8/DailyProg/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mohit8-8/DailyProg/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohit8-8/DailyProg/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit8-8/DailyProg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit8-8/DailyProg/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
