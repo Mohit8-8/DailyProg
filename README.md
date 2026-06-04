@@ -27,6 +27,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit8-8/DailyProg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohit8-8/DailyProg/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit8-8/DailyProg/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mohit8-8/DailyProg/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mohit8-8/DailyProg/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mohit8-8/DailyProg/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3660-jump-game-ix](https://github.com/Mohit8-8/DailyProg/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mohit8-8/DailyProg/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mohit8-8/DailyProg/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mohit8-8/DailyProg/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -617,6 +619,7 @@ This repository contains the daily activity i have done in my coding journey whe
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mohit8-8/DailyProg/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit8-8/DailyProg/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mohit8-8/DailyProg/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mohit8-8/DailyProg/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
